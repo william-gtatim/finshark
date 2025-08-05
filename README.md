@@ -1,3 +1,5 @@
+# Vídeo do tutorial
+[Vídeo](https://www.youtube.com/watch?v=qBTe6uHJS_Y&list=PL82C6-O4XrHfrGOCPmKmwTO7M0avXyQKc&index=1&ab_channel=TeddySmith)
 # Como rodar esse app
 
 1. **Faça uma cópia do repositório**
